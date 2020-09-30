@@ -18,4 +18,4 @@ Sistema desenvolvido para abrir, exibir, manipular e salvar imagens RGB com 24 b
 10. Encontra e exibe uma aproximação obtida preservando o coeficiente DC e os n coeficientes AC mais importantes da imagem e zerando os demais. O parâmetro n é um inteiro no intervalo [0, RxC-1].
 11. Encontra a imagem resultante da filtragem de uma imagem por um filtro passa-baixa ideal quadrado, com frequência de corte fc (parâmetro especificado pelo usuário) igual à aresta do quadrado, em pixels.
 
-O sistema não faz o uso de bibliotecas prontas para tais fins expecificados acima.
+O sistema não faz o uso de bibliotecas prontas para tais fins especificados acima.
